@@ -1,0 +1,3 @@
+El prpósito de este proyecto es poder agrupar de una mejor manera las descripciones de los productos. Los productos se dan de alta con un sku, sin embargo si se vuelve a resurtir el mismo producto se crea un clon, este clon debe de estar ligado al producto padre, sin emabrgo en muchos casos esto no sucede. El equipo de BI lo que ha realizado hasta ahora es agrupar los productos por su descripción, sin embargo existen ocaciones en que las descripciones no coinciden, a veces por errores gramáticales, a veces por que hacen falta palabras, etc. 
+
+***La propuesta es hacer un análisis léxico o una clasiificación
